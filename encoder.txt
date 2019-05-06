@@ -1,1 +1,2 @@
 https://ducktoolkit.com/
+https://github.com/hak5darren/USB-Rubber-Ducky/wiki/Payloads
