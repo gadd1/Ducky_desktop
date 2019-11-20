@@ -1,8 +1,8 @@
-﻿<#
-	(new-object System.Net.WebClient).DownloadFile('https://raw.githubusercontent.com/judge2020/judge2020-ws/master/b.jpg',"c:\temp\b.jpg");
+﻿
+(new-object System.Net.WebClient).DownloadFile('https://raw.githubusercontent.com/judge2020/judge2020-ws/master/b.jpg',"c:\temp\b.jpg");
+<#
+	(new-object System.Net.WebClient).DownloadFile('https://wallimpex.com/data/out/773/nvidia-triple-monitor-wallpaper-11208855.jpg',"c:\temp\b.jpg");
 #>
-(new-object System.Net.WebClient).DownloadFile('https://wallimpex.com/data/out/773/nvidia-triple-monitor-wallpaper-11208855.jpg',"c:\temp\b.jpg");
-
 
 
 Function Set-WallPaper($Image) {
