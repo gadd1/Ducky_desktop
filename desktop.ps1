@@ -1,6 +1,6 @@
-﻿
-(new-object System.Net.WebClient).DownloadFile('https://raw.githubusercontent.com/judge2020/judge2020-ws/master/b.jpg',"c:\temp\b.jpg");
+(new-object System.Net.WebClient).DownloadFile('https://i2.kym-cdn.com/photos/images/original/000/948/404/183.png',"c:\temp\b.jpg");
 <#
+	(new-object System.Net.WebClient).DownloadFile('https://raw.githubusercontent.com/judge2020/judge2020-ws/master/b.jpg',"c:\temp\b.jpg");
 	(new-object System.Net.WebClient).DownloadFile('https://wallimpex.com/data/out/773/nvidia-triple-monitor-wallpaper-11208855.jpg',"c:\temp\b.jpg");
 #>
 
